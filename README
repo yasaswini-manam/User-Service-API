@@ -1,9 +1,20 @@
 
+## 📸 API Documentation Screenshots
 
-### 🔹 Swagger UI
+### 🔹 Swagger UI Interface
+
+The Swagger UI provides an interactive interface to test and explore the REST APIs.
+
 ![Swagger UI](src/images/Screenshot%202026-03-31%20213229.png)
 
-### 🔹 API Execution
-![API Execution](src/images/Screenshot%20(672).png)
+### 🔹 GET Users API Execution
 
-![API Execution](src/images/Screenshot%20(674).png)
+This screenshot shows the successful execution of the **GET /api/users** endpoint from Swagger UI.
+
+![API Execution](src/images/Screenshot%20\(672\).png)
+
+### 🔹 API Response Example
+
+The response returned from the server after executing the API request.
+
+![API Execution](src/images/Screenshot%20\(674\).png)
